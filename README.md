@@ -9,3 +9,8 @@ Everything you need to know can be found here: http://www.digital-pianism.com/en
 # Magento Connect
 
 http://www.magentocommerce.com/magento-connect/mass-export-product-to-csv.html
+
+# Release Notes
+
+## 1.2.0
+- Support export for the store specific data
