@@ -12,5 +12,8 @@ http://www.magentocommerce.com/magento-connect/mass-export-product-to-csv.html
 
 # Release Notes
 
+## 1.3.0
+- Add the description, short description and main image URL to the exported data
+
 ## 1.2.0
 - Support export for the store specific data
